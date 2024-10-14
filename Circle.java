@@ -15,7 +15,6 @@ public class Circle
     private int yPosition;
     private String color;
     private boolean isVisible;
-    
     /**
      * Create a new circle at default position with default color.
      */
